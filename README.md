@@ -1,7 +1,5 @@
 # Meetup #2 - 2019-04-24
 
----
-
 ## 
 
 - Speaker: [Johannes Pichler](https://johannespichler.com)
