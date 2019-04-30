@@ -1,9 +1,9 @@
 # Meetup #2 - 2019-04-24
 
-## 
+## Mastering CLIs
 
 - Speaker: [Johannes Pichler](https://johannespichler.com)
-- Slides: 
+- Slides: [Speakerdeck](https://speakerdeck.com/fetzi/mastering-clis)
 
 ## Hey look at that! It blinks - having fun with tinygo
 
